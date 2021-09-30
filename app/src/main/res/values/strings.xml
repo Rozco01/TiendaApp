@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HolaMundo2</string>
+    <string name="txtTitle">Inicio de sesion</string>
+    <string name="hintCorreo">Escriba su correo</string>
+    <string name="hintValue">Escriba su contraseña</string>
+    <string name="txtBtn">Iniciar</string>
+    <string name="txtBtnRegister">Registrar usuario</string>
+    <string name="txt_titulo_listado">Listado de productos</string>
+    <string name="txt_titulo_detalle">Detalle:  %1s</string>
+    <string name="txt_titulo_formulario">Agregar producto</string>
+    <string name="txt_nombre_formulario">Nombre del producto</string>
+    <string name="txt_urlimg_formulario">Url de la imagen</string>
+    <string name="txt_precio_formulario">Precio del producto</string>
+    <string name="txt_descripcion_formulario">Descripcion del producto</string>
+</resources>
